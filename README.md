@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JailtonAragao
-- 👀 I’m interested in HTML, CSS, JS, NODEJS, RUBY, RAILS, PYTHON
+- 👀 I’m interested in HTML, CSS, JS, NODEJS, JAVASCRIPT.
 - 📫 How to reach me jailton.aragao@gmail.com
 
 <!---
